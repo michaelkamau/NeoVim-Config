@@ -11,6 +11,7 @@ Plug 'drewtempelmeyer/palenight.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
+Plug 'rust-lang/rust.vim'
 " Initialize plugin system
 call plug#end()
 
